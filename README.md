@@ -15,4 +15,6 @@ Augmented training and test samples:
 [OneDrive](https://1drv.ms/u/s!Av1MQK8mV3J8g0OYs-8hrv-YuIgc?e=B0hKgU)<br>
 [BaiduCloud](http://pan.baidu.com/s/1jI5LeQy)
 
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
 
